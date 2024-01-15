@@ -18,12 +18,12 @@
 <!-- Pinned Repositories -->
 <!-- Example Repository 1 -->
 <a href="https://github.com/CHXRITH/Hidden-Files-Recovery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=your-repo-1&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CHXRITH&repo=Hidden-Files-Recovery&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- Example Repository 2 -->
 <a href="https://github.com/CHXRITH/NIC-info-Py">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=your-repo-2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CHXRITH&repo=NIC-info-Py&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
