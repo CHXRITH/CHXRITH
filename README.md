@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about coding and exploring new tech
  ## chxrith.py
  ```python
 
-import CHXRITH's data
+import CHXRITH
 
 def life(year):
     while alive and year > 0:
@@ -24,7 +24,7 @@ def life(year):
 alive = True
 
 # Set the initial year
-age = 17
+age = CHXRITH.age
 
 # my life
 life(age)
