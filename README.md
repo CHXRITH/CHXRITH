@@ -45,22 +45,11 @@ life(age)
 </br>
 </br>
 
-## 🚀 Featured Projects
-
-### [Hidden Files Recovery](https://github.com/CHXRITH/Hidden-Files-Recovery)
-
-Description: This batch script assists in recovering hidden files from a flash drive by removing the hidden, read-only, system, and archive attributes.
-
-### [NIC Info Py](https://github.com/CHXRITH/NIC-info-Py)
-
-Description: Python script to extract valuable information from Sri Lankan National Identity Card (NIC) numbers, including gender and birth date.
-
-</br>
-
 ## 📫 Connect with Me
 
 - [Telegram](https://t.me/blogbychxrith)
 - [Insta](https://www.instagram.com/@chxrith_)
+- [linkedin](https://www.linkedin.com/in/charith-senanayake-3906a72b2/)
 - Email: charithpramosenanayake@gmail.com
 
 </br>
